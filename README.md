@@ -29,8 +29,4 @@ Me chamo __Brenda Luana__, tenho 19 anos, sou pernambucana e atualmente estudo _
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brendalu2005&show_icons=true&theme=synthwave)
 
 ---
-# Brendalu2005
-# Brendalu2005
-# Brendalu2005
-# Brendalu2005
-# Brendalu2005
+

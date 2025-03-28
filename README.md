@@ -9,6 +9,7 @@ Me chamo __Brenda Luana__, tenho 19 anos, sou pernambucana e atualmente estudo _
    💻 Linguagens que estou aprendendo: 
    
    * Python
+   * C
    * HTML
    * CSS
    * JavaScript

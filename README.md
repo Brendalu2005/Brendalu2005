@@ -12,7 +12,8 @@ Me chamo __Brenda Luana__, tenho 19 anos, sou pernambucana e atualmente estudo _
    * C
    * HTML
    * CSS
-   * JavaScript
+   * Django
+   * Java
 </p>
 
 <p align="left">

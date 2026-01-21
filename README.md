@@ -3,7 +3,7 @@
 
 <img src="readmeart.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="300px" align="right">
 
-Me chamo __Brenda Luana__, tenho 19 anos, sou pernambucana e atualmente estudo __Ciências da Computação__ na Cesar School, estou buscando estudar novas línguagens de programação e me aperfeiçoar em ferramentas voltadas para Front-End.
+Me chamo __Brenda Luana__, tenho 19 anos, sou pernambucana e atualmente estudo __Ciências da Computação__ na Cesar School, estou buscando estudar novas línguagens de programação e me aperfeiçoar em ferramentas voltadas para Back-End.
 
 <p align="left">
    💻 Linguagens que estou aprendendo: 

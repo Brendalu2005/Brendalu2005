@@ -28,7 +28,7 @@ Me chamo __Brenda Luana__, tenho 19 anos, sou pernambucana e atualmente estudo _
 </p>
 
 ### 😻 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brendalu2005&show_icons=true&theme=synthwave)
+![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=pranesh-2005&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ---
 
